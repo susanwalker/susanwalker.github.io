@@ -5,4 +5,10 @@
   gh_user: susanwalker
   repo: allie_cat
   img: ./images/projects/allie_cat.png
-  desc: A pacman style game with cats chasing cat treats.
+  desc: A pacman style game with cats chasing cat treats
+
+- name: PBNify
+  gh_user: susanwalker
+  repo: pbnify
+  img: ./images/projects/pbnify.png
+  desc: A Rails app which converts an image (.png) to a paintable by number
