@@ -5,7 +5,7 @@
   gh_user: susanwalker
   repo: allie_cat
   img: ./images/projects/allie_cat.png
-  desc: A pacman style game with cats chasing cat treats
+  desc: A terminal based pacman style game 
 
 - name: PBNify
   gh_user: susanwalker
