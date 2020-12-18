@@ -5,10 +5,16 @@
   gh_user: susanwalker
   repo: allie_cat
   img: ./images/projects/allie_cat.png
-  desc: A terminal based pacman style game 
+  desc: A terminal based pacman style game
 
 - name: PBNify
   gh_user: susanwalker
   repo: pbnify
   img: ./images/projects/pbnify.png
   desc: A Rails app which converts an image (.png) to a paintable by number
+
+- name: Sierpinski Triangle
+  gh_user: susanwalker
+  repo: sierpinski_triangle
+  img: ./images/projects/sierpinski_triangle.png
+  desc: An Elixir app to generate a Sierpinski Triangle given the number of divisions
