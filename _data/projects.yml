@@ -18,3 +18,9 @@
   repo: sierpinski_triangle
   img: ./images/projects/sierpinski_triangle.png
   desc: An Elixir app to generate a Sierpinski Triangle given the number of divisions
+
+- name: Read To Me
+  gh_user: susanwalker
+  repo: read_to_me
+  img: ./images/projects/readtome.png
+  desc: Text-to-audio converter app for the visually impaired

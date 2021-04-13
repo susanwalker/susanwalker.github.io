@@ -10,8 +10,8 @@ font_awesome: 'XXXXXXXXXX.js'
 author:
   name: 'Susan Walker'
   email: susanwalker8@gmail.com
-  github_username:  susanwalker
-  # linkedin_username:  
+  github_username: susanwalker
+  linkedin_username: susan-walker-0b80ba208
 
 # Build settings
 destination: _site
